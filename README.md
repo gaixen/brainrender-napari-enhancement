@@ -30,6 +30,21 @@ load_mouse_data(viewer)  # Loads and renders sample data
 
 ## License
 MIT
+## Applicant Background
+
+As a first-year undergraduate at IIT Kanpur, I possess a strong foundational interest in computational neuroscience, scientific imaging, and open-source development. I have cultivated proficiency in Python and data science through academic and self-initiated projects. My dedication to research-oriented software aligns with BrainGlobe’s mission to democratize access to neuroscientific data analysis tools.
+
+## Prior Engagement
+
+I have undertaken an extensive review of the brainrender and brainrender-napari repositories, experimenting with their APIs and contributing documentation improvements. Prior to the formal coding period, I intend to initiate a contribution via a pull request targeting plugin usability enhancements or documentation.
+
+## Long-Term Contributions
+
+Beyond GSoC, I aim to continuously support BrainGlobe through iterative feature development, optimization of rendering pipelines, and exploration of immersive visualization modalities such as AR/VR integration to expand the pedagogical potential of brainrender-napari.
+
+## Mentorship
+@alessandrofelder  
+@IgorTatarnikov
 
 ## Sample Code Snippet (widget.py)
 ```python
