@@ -31,10 +31,7 @@ load_mouse_data(viewer)  # Loads and renders sample data
 ## License
 MIT
 
----
-
 ## Sample Code Snippet (widget.py)
-
 ```python
 from magicgui import magic_factory
 from napari.types import Viewer
